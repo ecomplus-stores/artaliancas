@@ -6,11 +6,11 @@
     "bootswatch": "cerulean",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#000000",
   "repository": "ecomplus-stores/artaliancas",
   "logo": "/img/uploads/logo-art-aliancas.jpg",
   "name": "artaliancas",
-  "short_name": "artaliancas",
+  "short_name": "Sobre nós",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
