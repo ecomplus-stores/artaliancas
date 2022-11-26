@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "Você cliente, é a nossa joia preciosa!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#000000",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
@@ -24,6 +26,6 @@
   },
   "desktop_megamenu": false,
   "search_input": true,
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "full_width_submenu": false
 }
