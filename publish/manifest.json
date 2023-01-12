@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.09a9d03f21690a72834741814f6a212a.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.2693983e7fdd15ebc37126fe834f7dba.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.0e3f04b36dca0839c43b8192c5ebad1a.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.bafd87024f1789863422795d61d7ede2.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.1410871e6d31cb96314ef071ea68195c.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "artaliancas",
+  "short_name": "Sobre nós",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Somos a Art Alianças, um ateliê especializado na confecção de joias artesanais, em prata e ouro. \nEstamos no mercado desde 2009, construindo uma sólida relação de cofiança com nossos clientes. Temos o privilégio de fazer parte da vida de nossos clientes e seus familiares por confeccionar joias que contam histórias, que simbolizam mudanças de fases, que marcam etapas importantes da vida. \nPor nossa confecção ser artesanal - joias feitas a mão - nos envolvemos e colocamos afeto em cada joia!\nEstamos localizados na rua Espírito Santo, no centro de BH. \nNosso objetivo é oferecer para você a joia dos seus sonhos, confeccionada com amor e com as melhores matérias-primas. \nVocê cliente, é a nosa joia preciosa!",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
